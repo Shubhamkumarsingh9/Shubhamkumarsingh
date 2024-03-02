@@ -1,6 +1,3 @@
-Based on the information from your resume, here's an example of HTML code for the main page of your GitHub portfolio. This code includes sections for your summary, education, skills, experience, projects, and contact information:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,9 +90,3 @@ Based on the information from your resume, here's an example of HTML code for th
     </footer>
 </body>
 </html>
-```
-
-To use this HTML:
-1. Create a file named `index.html` in your repository.
-2. Copy and paste the provided HTML code into this file.
-3. Customize the content further as needed, filling in more details from your resume or adding new sections
